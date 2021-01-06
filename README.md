@@ -1,4 +1,4 @@
-# Clasificador para la detección de cancer de seno
+# Clasificador para la detección de cáncer de seno
 <img src="https://github.com/nathaliag30/Clasificador-para-la-detecci-n-de-cancer-de-seno/blob/master/banner.JPG" style="width:1000px;">
 Presentado por:<br/>
 Andrea Fabiana Villamizar Ruiz<br/>
